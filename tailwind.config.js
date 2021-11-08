@@ -13,6 +13,10 @@ module.exports = {
           100: 'rgb(252, 231, 243)',
           300: 'rgb(249, 168, 212)',
         }
+      },
+      fontFamily: {
+        body: ['Roboto', 'sans-serif'],
+        accent: ['"Dancing Script"', 'cursive'],
       }
     },
   },

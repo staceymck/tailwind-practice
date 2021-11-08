@@ -1,5 +1,9 @@
 /* Run 'npm run build-css' each time this file changes */
 
+/* Custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
 /* Core Tailwind directives */
 @tailwind base;
 @tailwind components;
